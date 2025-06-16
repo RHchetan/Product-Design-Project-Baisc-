@@ -25,7 +25,7 @@ The goal of this project was to:
 
 **Mockups Example:**
 
-![Mockup Preview](![image](https://github.com/user-attachments/assets/cb2f8b6d-1ca8-406b-b0ed-50cee20b89ab)
+![Mockup Preview]((https://github.com/user-attachments/assets/cb2f8b6d-1ca8-406b-b0ed-50cee20b89ab)
 )
 
 ---
