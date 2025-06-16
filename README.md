@@ -1,4 +1,4 @@
-# 📱 Product Design Project
+![image](https://github.com/user-attachments/assets/a89ea733-66ab-4c75-831a-ba437cab66fb)# 📱 Product Design Project
 
 This repository contains the wireframes and mockups created as part of my Product Design course. The project focused on designing intuitive user interfaces and user experiences for a mobile social media platform concept.
 
@@ -25,7 +25,8 @@ The goal of this project was to:
 
 **Mockups Example:**
 
-![Mockup Preview](https://dummyimage.com/600x400/000/fff&text=Add+your+screenshot+here)
+![Mockup Preview](![image](https://github.com/user-attachments/assets/cb2f8b6d-1ca8-406b-b0ed-50cee20b89ab)
+)
 
 ---
 
